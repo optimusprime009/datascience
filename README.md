@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@optimusprime009 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-598
-4,876197,304jtleek/datasharing
- Code Issues 31 Pull requests 425 Projects 0 Wiki Security Insights
-The Leek group guide to data sharing
- 29 commits
- 1 branch
- 0 releases
- 10 contributors
-@jtleek
-jtleek Merge pull request #464 from Amherst-Statistics/master …
- 1
-Latest commit
-df97230
-on Nov 9, 2016
-Type	Name	Latest commit message	Commit time
-README.md	Offered suggestions to Jeff for the TAS DSS submission.	3 years ago
- README.md
 How to share data with a statistician
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
